@@ -24,3 +24,8 @@ docProps  _rels  unk  word
 ```
 #### I found a flag in docProps / thumbnail.jpeg
 ![](https://raw.githubusercontent.com/Rajchowdhury420/temp-files-for-writeup/main/flaaaggg.png)
+
+
+```
+so the Flag is : flag{old_macdonald_or_mcdonalds_supplier?}
+```
