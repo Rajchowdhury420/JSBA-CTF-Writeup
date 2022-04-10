@@ -15,5 +15,5 @@ Session completed
 ```
 #### When I opened the pdf with the password I found, I found the flag
 ```bash
-flag {kramer_the_best_hacker_ever}
+flag{kramer_the_best_hacker_ever}
 ```
